@@ -1,5 +1,7 @@
-<p style="text-align:center"> **Design for TOPO** <p>
-<p style="text-align:center">
+![topo](images/square/square_small.png)
+
+<h2 align="center">Design for TOPO <h2>
+<p align="center">
   A collection of images and files...
 <p>
 
