@@ -1,4 +1,5 @@
-![topo](images/square/square_small.png)
+<p align="center"> ![topo](images/circle/circle_vector.svg)
+</p>
 
 <h2 align="center">Design for TOPO <h2>
 <p align="center">
